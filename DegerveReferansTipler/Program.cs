@@ -21,7 +21,8 @@ namespace DegerveReferansTipler
             //sayilar1[0]=??  999
 
 
-
+            // deger tiplerde deger atamasi yapiliyor
+            // referans tipte adres atamasi yapiyoruz
 
 
 
